@@ -1,0 +1,3 @@
+[submodule "Lesson_1/ClassWork/DemoApps"]
+	path = Lesson_1/ClassWork/DemoApps
+	url = https://github.com/ssharshatov/ITNordicCS.git
